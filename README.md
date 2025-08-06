@@ -56,8 +56,4 @@ We use **statsmodels** for full statistical inference and **Random Forest imputa
 
 ---
 
-## 🚀 How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/lab19-titanic.git
