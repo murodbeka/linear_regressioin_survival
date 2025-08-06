@@ -1,4 +1,4 @@
-# LAB 19: Titanic Survival Prediction with Logistic Regression
+#Titanic Survival Prediction with Logistic Regression
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626)
